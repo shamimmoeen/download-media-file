@@ -1,7 +1,7 @@
 {
   "name": "download-media-file",
   "version": "1.0.0",
-  "description": "Adds a button to media modal to download media file.",
+  "description": "Adds a button to the media modal to download the media file.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,14 +13,14 @@
   "keywords": [
     "download-media-file"
   ],
-  "author": "CoderBloc",
+  "author": "Mainul Hassan Main",
   "license": "GPL-3.0+",
   "bugs": {
     "url": "https://github.com/shamimmoeen/download-media-file/issues"
   },
   "homepage": "https://github.com/shamimmoeen/download-media-file#readme",
   "devDependencies": {
-    "grunt-wp-i18n": "^1.0.2",
-    "grunt-wp-readme-to-markdown": "^2.0.1"
+    "grunt": "^1.5.3",
+    "grunt-wp-readme-to-markdown": "^2.1.0"
   }
 }
