@@ -1,9 +1,8 @@
 <?php
-
 /**
  * Fired during plugin activation
  *
- * @link       https://coderbloc.com
+ * @link       https://mainulhassan.info
  * @since      1.0.0
  *
  * @package    Download_Media_File
@@ -18,7 +17,7 @@
  * @since      1.0.0
  * @package    Download_Media_File
  * @subpackage Download_Media_File/includes
- * @author     CoderBloc <support@coderbloc.com>
+ * @author     Mainul Hassan Main <contact@mainulhassan.info>
  */
 class Download_Media_File_Activator {
 
