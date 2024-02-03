@@ -2,7 +2,7 @@
 Contributors: shamimmoeen
 Tags: download-media-file
 Requires at least: 5.3
-Tested up to: 6.0.1
+Tested up to: 6.4
 Stable tag: 1.0.1
 Requires PHP: 7.4
 License: GPLv3
